@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1572431774 source:/homes/e17derri/MCE/TP/separation_v0.c
+	<stdio.h>
+	<stdlib.h>
+	"separation_v0.h"
+	"math_functions.h"
+
+1572431775 /homes/e17derri/MCE/TP/separation_v0.h
+
+1572448734 /homes/e17derri/MCE/TP/math_functions.h
+
+1572424752 source:/homes/e17derri/MCE/TP/SOBI.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"math_functions.h"
+	"separation_v0.h"
+
+1572449381 source:/homes/e17derri/MCE/TP/math_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"math_functions.h"
+	<math.h>
+
+1573726104 source:/homes/e17derri/MCE/TP/TP Calcul/math_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"math_functions.h"
+	<math.h>
+
+1573030453 /homes/e17derri/MCE/TP/TP Calcul/math_functions.h
+
+1573727709 source:/homes/e17derri/MCE/TP/TP Calcul/separation_v0.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"separation_v0.h"
+	"math_functions.h"
+
+1573030515 /homes/e17derri/MCE/TP/TP Calcul/separation_v0.h
+
+1572704018 source:/homes/e17derri/MCE/TP/TP Calcul/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"math_functions.h"
+	"separation_v0.h"
+
+1573724603 source:/homes/e17derri/MCE/TP/TP Calcul/SOBI.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"math_functions.h"
+	"separation_v0.h"
+
+1573727856 source:/homes/e17derri/MCE/TP/Separation_aveugle_sources_DERRINGER_MICHELIS_BRY/Separation_sources_C/math_functions.c
+	<stdio.h>
+	<stdlib.h>
+	"math_functions.h"
+	<math.h>
+
+1573030453 /homes/e17derri/MCE/TP/Separation_aveugle_sources_DERRINGER_MICHELIS_BRY/Separation_sources_C/math_functions.h
+
+1573728525 source:/homes/e17derri/MCE/TP/Separation_aveugle_sources_DERRINGER_MICHELIS_BRY/Separation_sources_C/separation_v0.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"separation_v0.h"
+	"math_functions.h"
+
+1573030515 /homes/e17derri/MCE/TP/Separation_aveugle_sources_DERRINGER_MICHELIS_BRY/Separation_sources_C/separation_v0.h
+
+1573724603 source:/homes/e17derri/MCE/TP/Separation_aveugle_sources_DERRINGER_MICHELIS_BRY/Separation_sources_C/SOBI.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"math_functions.h"
+	"separation_v0.h"
+
